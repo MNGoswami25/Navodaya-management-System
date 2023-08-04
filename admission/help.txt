@@ -1,0 +1,24 @@
+
+............ ........Welcome to School Admission System.......................
+
+This is a program in which you may perform various activities related to
+
+ students admission.....
+
+-> If You are facing any problem to do activies then first you may ensure that you are user or admin
+
+ of this system if you are not any of them then first you may contact to admin of this system .
+
+To do various activies 1st you may contact to admin of 
+
+this admission system.He/She add you as a admin or a user,then you 
+
+may do various activies there.
+
+->If you are facing any problem related to accessing the application then see below
+
+1.Press enter always for next step
+2.Carefully read all the instruction given above before entering any choice .
+3.Always Enter right choice. 
+
+ 
